@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Android\SwitchMedia.TechnicalTest.Android.App\TechnicalTest.Android.App.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.Galaxy_S6_API_23" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Android\SwitchMedia.TechnicalTest.Android.App\Extension\ViewExtension.cs" Line="17" Column="1" />
+      <File FileName="Share\TechnicalTest.Share.Core\Model\Shape.cs" Line="1" Column="1" />
+      <File FileName="Share\TechnicalTest.Share.Core\ShapeFactory.cs" Line="1" Column="1" />
+      <File FileName="Android\SwitchMedia.TechnicalTest.Android.App\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="Share\TechnicalTest.Share.Core\Pattern\PatternCache.cs" Line="1" Column="1" />
+      <File FileName="Share\TechnicalTest.Share.Core\Pattern\Downloader\MyHttpClient.cs" Line="1" Column="1" />
+      <File FileName="Android\SwitchMedia.TechnicalTest.Android.App\CustomLayout\ShapeLayout.cs" Line="1" Column="1" />
+      <File FileName="Android\SwitchMedia.TechnicalTest.Android.App\Properties\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Android\SwitchMedia.TechnicalTest.Android.App\CustomView\ShapeView.cs" Line="69" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Android", "Android", "{F7205DBF-558D-4260-A07A-663773251C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalTest.Android.App", "Android\SwitchMedia.TechnicalTest.Android.App\TechnicalTest.Android.App.csproj", "{362DC307-FA34-462C-BA91-503112CF5417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalTest.Android.App.UnitTest", "Android\TechnicalTest.Android.App.UnitTest\TechnicalTest.Android.App.UnitTest.csproj", "{4D263E81-F9A0-402A-8872-3C5BA6263D44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "iOS", "iOS", "{7BC50D7A-882E-447C-918C-A1FC087B30BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Share", "Share", "{21447011-03A9-4233-A2A7-D06C86EEA0C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalTest.Share.Core", "Share\TechnicalTest.Share.Core\TechnicalTest.Share.Core.csproj", "{7A7CA8D0-2E8F-4001-BD6F-82853A50C4EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalTest.Share.Core.UnitTest", "Share\TechnicalTest.Share.Core.UnitTest\TechnicalTest.Share.Core.UnitTest.csproj", "{FF310BBE-3C60-4BD1-BE2C-DBD65D048C06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{362DC307-FA34-462C-BA91-503112CF5417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362DC307-FA34-462C-BA91-503112CF5417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362DC307-FA34-462C-BA91-503112CF5417}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{362DC307-FA34-462C-BA91-503112CF5417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362DC307-FA34-462C-BA91-503112CF5417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{362DC307-FA34-462C-BA91-503112CF5417}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4D263E81-F9A0-402A-8872-3C5BA6263D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D263E81-F9A0-402A-8872-3C5BA6263D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D263E81-F9A0-402A-8872-3C5BA6263D44}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4D263E81-F9A0-402A-8872-3C5BA6263D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D263E81-F9A0-402A-8872-3C5BA6263D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D263E81-F9A0-402A-8872-3C5BA6263D44}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7A7CA8D0-2E8F-4001-BD6F-82853A50C4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7CA8D0-2E8F-4001-BD6F-82853A50C4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7CA8D0-2E8F-4001-BD6F-82853A50C4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7CA8D0-2E8F-4001-BD6F-82853A50C4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF310BBE-3C60-4BD1-BE2C-DBD65D048C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF310BBE-3C60-4BD1-BE2C-DBD65D048C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF310BBE-3C60-4BD1-BE2C-DBD65D048C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF310BBE-3C60-4BD1-BE2C-DBD65D048C06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{362DC307-FA34-462C-BA91-503112CF5417} = {F7205DBF-558D-4260-A07A-663773251C8D}
+		{4D263E81-F9A0-402A-8872-3C5BA6263D44} = {F7205DBF-558D-4260-A07A-663773251C8D}
+		{7A7CA8D0-2E8F-4001-BD6F-82853A50C4EE} = {21447011-03A9-4233-A2A7-D06C86EEA0C1}
+		{FF310BBE-3C60-4BD1-BE2C-DBD65D048C06} = {21447011-03A9-4233-A2A7-D06C86EEA0C1}
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
