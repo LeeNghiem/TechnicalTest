@@ -55,7 +55,7 @@
     <Compile Include="CustomView\ShapeView.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Release\SwitchMedia.TechnicalTest.Android.apk" />
+    <None Include="SwitchMedia.TechnicalTest.Android.apk" />
     <None Include="GettingStarted.Xamarin" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
@@ -86,5 +86,7 @@
   <Target Name="AfterBuild">
   </Target>
   -->
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
 </Project>
